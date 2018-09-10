@@ -1,2 +1,2 @@
 # GreekforGreek
-Greek For Greek Solution 
+Greek For Greek solution for java
